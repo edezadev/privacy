@@ -47,7 +47,7 @@ La app utiliza servicios de terceros que tienen sus propias políticas:
 
 ## 5. Contacto
 Si tienes preguntas sobre esta política o deseas solicitar la eliminación de tus datos:
-- **Correo electrónico**: edeza.dev@gmail.com
+- **Correo electrónico**: [edeza.dev@gmail.com](mailto:edeza.dev@gmail.com)
 - **Soporte técnico**: [GitHub Issues](https://github.com/edezadev/la-bomba/issues)
 
 ## 6. Cambios en esta Política
